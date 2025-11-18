@@ -6,7 +6,7 @@ const apps = [
    { 
     id: 1, 
     name: "非凡娱乐", 
-    description: "新台大水", 
+    description: "大水", 
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg",
     url: "https://wcwx.paradisemall.net/app/register.php?site_id=1050&topId=880722&selfPlanId=855049",
   },

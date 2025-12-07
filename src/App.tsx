@@ -123,14 +123,14 @@ const apps = [
     url: "https://103.39.18.211:7788/#/link?allwin=0RcGUSI3XYLQ0lhXzzQuiw%3D%3D",
   },
     {
-    id: 19,
+    id: 18,
     name: "NG28",
     description: "首存100+100",
     iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
     url: "https://38.181.23.18:60004/#/link?allwin=22198286",
   },
     {
-    id: 20,
+    id: 19,
     name: "星耀国际",
     description: "优先注册领取百万红包雨（12月8号正式上线）",
     iconUrl: "https://pic1.imgdb.cn/item/69327e9bd1e741a32bf19523.jpg",

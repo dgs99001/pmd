@@ -1,6 +1,6 @@
 import React from 'react';
 
-const marqueeText = "长期招商，年入百万。添加旺旺客服：750241787 ";
+const marqueeText = "长期招商，年入百万。添加旺旺客服：518601141 ";
 
 const apps = [
     { 
@@ -168,7 +168,7 @@ function App() {
       <div className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <img 
-            src="https://pic1.imgdb.cn/item/695bd82536d37d253ed52830.jpg" 
+            src="https://i.postimg.cc/44bJSFnC/pao-ma-zhi-ding3.jpg" 
             alt="应用展示图片" 
             className="w-full max-w-2xl h-auto mx-auto rounded-lg shadow-lg object-cover mb-8"
           />

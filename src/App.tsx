@@ -3,7 +3,14 @@ import React from 'react';
 const marqueeText = "长期招商，年入百万。添加旺旺客服：518601141 ";
 
 const apps = [
-    { 
+     {
+    id: 1,
+    name: "新时代",
+    description: "新台大水",
+    iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
+    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
+  },
+  { 
     id: 1, 
     name: "胜天国际", 
     description: "新台大水", 
@@ -129,19 +136,12 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
     url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },
-    {
-    id: 19,
-    name: "新时代",
-    description: "官方满点招商",
-    iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
-    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
-  },
    { 
     id: 20, 
     name: "君临国际", 
     description: "官方满点招商", 
     iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: "https://tfajn.hcjwj.com/app/register.php?site_id=1058&topId=26442&selfPlanId=1692",
+    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },
 ];
 

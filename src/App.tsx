@@ -6,7 +6,7 @@ const apps = [
      {
     id: 1,
     name: "新时代",
-    description: "新台大水",
+    description: "注册即送88",
     iconUrl: "https://i.postimg.cc/t4SjcBzw/xin-shi-dai.jpg",
     url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
   },

@@ -140,7 +140,7 @@ function App() {
       <div className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <img 
-            src="https://i.postimg.cc/44bJSFnC/pao-ma-zhi-ding3.jpg" 
+            src="https://pic1.imgdb.cn/item/69664bd90e6bc0c5db97a9a7.jpg" 
             alt="应用展示图片" 
             className="w-full max-w-2xl h-auto mx-auto rounded-lg shadow-lg object-cover mb-8"
           />

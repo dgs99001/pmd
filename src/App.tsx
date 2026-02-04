@@ -115,13 +115,7 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
     url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
   },
-   { 
-    id: 16, 
-    name: "君临国际", 
-    description: "官方满点招商", 
-    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
-    url: "https://derear.fnbpsw.com/app/register.php?site_id=1059&topId=82351&selfPlanId=144338",
-  },
+
 ];
 
 function App() {

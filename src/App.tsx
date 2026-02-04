@@ -3,6 +3,13 @@ import React from 'react';
 const marqueeText = "长期招商，年入百万。添加旺旺客服：518601141 ";
 
 const apps = [
+    { 
+    id: 1, 
+    name: "君临国际", 
+    description: "注册并绑定实名领取58和百万红包，8号正式开业", 
+    iconUrl: "https://pic1.imgdb.cn/item/695248a74b4fb88febf26626.jpg",
+    url: "https://tfajn.hcjwj.com/app/register.php?site_id=2081&topId=23647&selfPlanId=6413",
+  },
      {
     id: 1,
     name: "新时代",

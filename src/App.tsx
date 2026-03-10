@@ -116,29 +116,29 @@ const apps = [
     url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
   },
 { 
-    id: 15, 
+    id: 16, 
+    name: "巅峰国际", 
+    description: "首存100+100", 
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176f8.jpg",
+    url: "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632",
+  },{ 
+    id: 17, 
     name: "多多28", 
     description: "首存100+100", 
     iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
     url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
   },{ 
-    id: 15, 
+    id: 18, 
     name: "多多28", 
     description: "首存100+100", 
     iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
     url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
   },{ 
-    id: 15, 
-    name: "多多28", 
+    id: 19, 
+    name: "超凡国际", 
     description: "首存100+100", 
-    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
-    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
-  },{ 
-    id: 15, 
-    name: "多多28", 
-    description: "首存100+100", 
-    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
-    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+    iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
+    url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
 ];
 

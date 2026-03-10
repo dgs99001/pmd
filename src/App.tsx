@@ -115,7 +115,31 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
     url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
   },
-
+{ 
+    id: 15, 
+    name: "多多28", 
+    description: "首存100+100", 
+    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
+    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+  },{ 
+    id: 15, 
+    name: "多多28", 
+    description: "首存100+100", 
+    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
+    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+  },{ 
+    id: 15, 
+    name: "多多28", 
+    description: "首存100+100", 
+    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
+    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+  },{ 
+    id: 15, 
+    name: "多多28", 
+    description: "首存100+100", 
+    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
+    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+  },
 ];
 
 function App() {

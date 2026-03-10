@@ -123,16 +123,16 @@ const apps = [
     url: "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632",
   },{ 
     id: 17, 
-    name: "多多28", 
+    name: "大满贯", 
     description: "首存100+100", 
-    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
-    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+    iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
+    url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
   },{ 
     id: 18, 
-    name: "多多28", 
+    name: "NG南宫", 
     description: "首存100+100", 
-    iconUrl: "https://pic1.imgdb.cn/item/686f644658cb8da5c899de0b.png",
-    url: "https://wlkyiy.paradisemall.net/app/register.php?site_id=1021&topId=5519693",
+    iconUrl: "https://pic1.imgdb.cn/item/689dd5ec58cb8da5c8251893.jpg",
+    url: "https://149.30.163.235:32011/#/link?allwin=BT8jp798vc163kFA9xyh2g%3D%3D",
   },{ 
     id: 19, 
     name: "超凡国际", 

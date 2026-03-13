@@ -166,7 +166,7 @@ function App() {
         <div className="max-w-4xl mx-auto text-center">
           <img 
             src="https://i.postimg.cc/SKR07Rqf/pao-ma-deng-zhi-ding4.jpg" 
-            alt="应用展示图片" 
+            alt="应用" 
             className="w-full max-w-2xl h-auto mx-auto rounded-lg shadow-lg object-cover mb-8"
           />
           <div className="w-24 h-1 bg-gradient-to-r from-blue-500 to-purple-500 mx-auto rounded-full"></div>

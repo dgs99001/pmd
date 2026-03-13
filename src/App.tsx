@@ -165,7 +165,7 @@ function App() {
       <div className="py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <img 
-            src="https://i.postimg.cc/SKR07Rqf/pao-ma-deng-zhi-ding4.jpg" 
+            src="https://i.postimg.cc/CMmj9KVF/pao-ma-deng-zhi-ding4.png" 
             alt="应用" 
             className="w-full max-w-2xl h-auto mx-auto rounded-lg shadow-lg object-cover mb-8"
           />

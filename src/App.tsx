@@ -206,14 +206,14 @@ function App() {
       <div className="px-4 pb-4">
         <div className="max-w-6xl mx-auto">
           <a 
-            href="https://wwtalk.com" 
+            href="https://www.paopaomiyu.xyz" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-full group"
           >
             <div className="relative overflow-hidden rounded-lg shadow-lg bg-gradient-to-r from-purple-600 to-blue-600 p-1">
               <img 
-                src="https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fa.png" 
+                src="https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp" 
                 alt="旺旺商聊" 
                 className="w-full h-20 sm:h-24 md:h-28 object-cover rounded-md"
               />

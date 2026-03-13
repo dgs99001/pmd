@@ -205,17 +205,17 @@ function App() {
       {/* 横向广告区域 */}
       <div className="px-4 pb-4">
         <div className="max-w-6xl mx-auto">
-          <a 
-            href="https://www.paopaomiyu.xyz" 
-            target="_blank" 
+          <a
+            href="https://www.paopaomiyu.xyz"
+            target="_blank"
             rel="noopener noreferrer"
             className="block w-full group"
           >
             <div className="relative overflow-hidden rounded-lg shadow-lg bg-gradient-to-r from-purple-600 to-blue-600 p-1">
-              <img 
-                src="https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp" 
-                alt="旺旺商聊" 
-                className="w-full h-20 sm:h-24 md:h-28 object-cover rounded-md"
+              <img
+                src="https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp"
+                alt="旺旺商聊"
+                className="w-full h-auto object-contain rounded-md"
               />
               <div className="absolute inset-0 bg-black bg-opacity-20 rounded-md transition-opacity duration-300 group-hover:bg-opacity-10"></div>
             </div>

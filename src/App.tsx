@@ -1,6 +1,6 @@
 import React from 'react';
 
-const marqueeText = "长期招商，年入百万。添加旺旺客服：518601141 ";
+const marqueeText = "长期招商，年入百万。添加（泡泡密语）客服号：227090165 ";
 
 const apps = [
     { 

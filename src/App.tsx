@@ -137,7 +137,7 @@ const apps = [
     url: "https://gfvgx.jgqvji.com/app/register.php?site_id=1030&topId=1744632",
   },
   { 
-    id: 20 
+    id: 20, 
     name: "大满贯", 
     description: "", 
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",

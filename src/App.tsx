@@ -155,10 +155,15 @@ function App() {
       {/* 顶部跑马灯区域 */}
       <div className="relative bg-gradient-to-r from-blue-600 to-purple-600 py-4 overflow-hidden">
         <div className="absolute inset-0 bg-black bg-opacity-20"></div>
-        <div className="relative">
-          <div className="whitespace-nowrap animate-marquee">
+        <div className="relative flex whitespace-nowrap">
+          <div className="animate-marquee">
             <span className="text-white text-lg font-medium tracking-wide">
-              {marqueeText.repeat(5)}
+              {marqueeText}
+            </span>
+          </div>
+          <div className="animate-marquee absolute left-full">
+            <span className="text-white text-lg font-medium tracking-wide">
+              {marqueeText}
             </span>
           </div>
         </div>

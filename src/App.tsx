@@ -120,7 +120,7 @@ const apps = [
     name: "大满贯", 
     description: "", 
     iconUrl: "https://pic1.imgdb.cn/item/6911f7f73203f7be00ed9d46.jpg",
-    url: "https://tz.wx-gujdtq3.com/app/register.php?site_id=2228&topId=1661558",
+    url: "https://tz.wxdmg6.cc/app/register.php?site_id=2228&topId=1661558",
   },
 { 
     id: 20, 

@@ -146,7 +146,7 @@ const apps = [
     { 
     id: 22, 
     name: "汇赢国际", 
-    description: "", 
+    description: "15号开业领百万红包", 
     iconUrl: "https://pic1.imgdb.cn/item/69da7d4e757fdade5eafac10.jpg",
     url: "https://ncgca.tprsmi.com/app/register.php?site_id=1062&topId=13593&selfPlanId=918",
   },

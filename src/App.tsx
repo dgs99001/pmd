@@ -154,7 +154,7 @@ const apps = [
     id: 21,
     name: "梦想国际",
     description: "20号开业发放百万红包雨",
-    iconUrl: "https://pic1.imgdb.cn/item/69df01c6f76f4dd14b4c2858.jpg",
+    iconUrl: "https://i.postimg.cc/hPT71YSf/meng-xiang-guo-ji.jpg",
     url: "https://mgokgd.jgqvji.com/app/register.php?site_id=1061&pt=08A0E1AF-96B3-A9C8-6E51-1D02FD14ABAC",
   },
 ];

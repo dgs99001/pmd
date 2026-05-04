@@ -143,13 +143,6 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
     url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
-   { 
-    id: 23, 
-    name: "领航国际", 
-    description: "5号正式开业发放百万红包雨", 
-    iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
-    url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
-  },
 ];
 
 function App() {

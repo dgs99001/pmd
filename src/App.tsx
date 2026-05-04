@@ -3,7 +3,14 @@ import React from 'react';
 const marqueeText = "长期招商，年入百万。添加（泡泡密语）客服号：227090165";
 
 const apps = [
-    { 
+   
+   { 
+    id: 23, 
+    name: "领航国际", 
+    description: "", 
+    iconUrl: "https://pic1.imgdb.cn/item/69f4835ec16184acf99e4245.jpg",
+    url: "https://rsesra.hfjcl.com/app/register.php?site_id=1064&pt=FA9067F8-D104-5451-A6AB-960962BAB808",
+  },{ 
     id: 1 , 
     name: "汇赢国际", 
     description: "", 

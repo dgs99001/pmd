@@ -146,14 +146,26 @@ function App() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900">
       {/* 顶部跑马灯区域 */}
-      <div className="relative bg-gradient-to-r from-blue-600 to-purple-600 py-4 overflow-hidden">
-        <div className="absolute inset-0 bg-black bg-opacity-20"></div>
-        <div className="relative">
-          <div className="whitespace-nowrap animate-marquee">
-            <span className="text-white text-lg font-medium tracking-wide">
-              {marqueeText.repeat(5)}
-            </span>
-          </div>
+      <div className="relative bg-gradient-to-r from-blue-600 to-blue-800 py-3 sm:py-4 overflow-hidden">
+        <div className="marquee-track">
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
+          <span className="text-white text-sm sm:text-base md:text-lg font-semibold tracking-wide px-8 sm:px-12 whitespace-nowrap">
+            {marqueeText}
+          </span>
         </div>
       </div>
 

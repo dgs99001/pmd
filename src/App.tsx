@@ -3,7 +3,13 @@ import React from 'react';
 const marqueeText = "长期招商，年入百万。添加（泡泡密语）客服号：773473671";
 
 const apps = [
-    
+              {
+      id: 1,
+      name: '戴高乐',
+      description: '',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
+       url: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+    }, 
    { 
     id: 23, 
     name: "领航国际", 
@@ -143,12 +149,12 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
     url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
-          {
+                {
       id: 1,
-      name: '戴高乐',
-      description: '筹备开业，敬请期待',
-      iconUrl: 'https://pic1.imgdb.cn/item/6a16f2efcf685663461371d7.jpg',
-       url: 'https://hbffbr.hcjwj.com/app/register.php?site_id=2091&topId=79040'
+      name: '聚鑫汇',
+      description: '6月5号开业领取百万红包',
+      iconUrl: 'https://pic1.imgdb.cn/item/6a1b8d64172c6dd74dd826b9.jpg',
+      appUrl: 'https://ybkvbz.tckqxx.com/app/register.php?site_id=1066&topId=27475&selfPlanId=1330'
     }, 
 ];
 

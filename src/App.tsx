@@ -156,7 +156,13 @@ const apps = [
     iconUrl: "https://pic1.imgdb.cn/item/68692e6558cb8da5c89176f7.jpg",
     url: "https://pkajim.hfjcl.com/app/register.php?site_id=1032&topId=1056008",
   },
-   
+        { 
+    id: 1, 
+    name: "龙腾国际",
+    description: "6月10号开业领取百万红包", 
+    iconUrl: "https://pic1.imgdb.cn/item/6a23ec2f0c24090b1026d76e.jpg",
+    url: "https://psktkx.tckqxx.com/app/register.php?site_id=1065&topId=27266&selfPlanId=896",
+  },
 ];
 
 function App() {

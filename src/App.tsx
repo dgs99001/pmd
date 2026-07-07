@@ -71,7 +71,7 @@ const apps = [
     name: "非凡娱乐", 
     description: "", 
     iconUrl: "https://pic1.imgdb.cn/item/68692e6658cb8da5c89176fd.jpg",
-    url: "https://wcwx.paradisemall.net/app/register.php?site_id=1050&topId=880722&selfPlanId=855049",
+    url: "https://lncqc.jgqvji.com/app/register.php?site_id=1050&topId=3491763480092190&selfPlanId=798835",
   },
     { 
     id: 11, 

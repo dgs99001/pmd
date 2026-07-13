@@ -2,6 +2,16 @@ import React from 'react';
 
 const marqueeText = "长期招商，年入百万。添加（泡泡密语）客服号：773473671";
 
+// =============================================
+// 底部横向广告配置 — 在此处修改广告链接和图片
+// =============================================
+const bottomBanner = {
+  link: "https://www.paopaomiyu.xyz",
+  imageUrl: "https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp",
+  imageAlt: "旺旺商聊",
+};
+// =============================================
+
 const apps = [
     {
       id: 2,
@@ -235,15 +245,15 @@ function App() {
       <div className="px-4 pb-4">
         <div className="max-w-6xl mx-auto">
           <a
-            href="https://www.paopaomiyu.xyz"
+            href={bottomBanner.link}
             target="_blank"
             rel="noopener noreferrer"
             className="block w-full group"
           >
             <div className="relative overflow-hidden rounded-lg shadow-lg bg-gradient-to-r from-purple-600 to-blue-600 p-1">
               <img
-                src="https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp"
-                alt="旺旺商聊"
+                src={bottomBanner.imageUrl}
+                alt={bottomBanner.imageAlt}
                 className="w-full h-auto object-contain rounded-md"
               />
               <div className="absolute inset-0 bg-black bg-opacity-20 rounded-md transition-opacity duration-300 group-hover:bg-opacity-10"></div>

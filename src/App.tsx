@@ -1,6 +1,6 @@
 import React from 'react';
 
-const marqueeText = "长期招商，年入百万。添加（Telegram客服号：@ty22990 )";
+const marqueeText = "长期招商，年入百万。添加（Telegram客服号：@ty2299 )";
 
 // =============================================
 // 底部横向广告配置 — 在此处修改广告链接和图片

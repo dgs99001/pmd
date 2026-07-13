@@ -6,7 +6,7 @@ const marqueeText = "长期招商，年入百万。添加（Telegram客服号：
 // 底部横向广告配置 — 在此处修改广告链接和图片
 // =============================================
 const bottomBanner = {
-  link: "https://telegram.org/",
+  link: "https：//t.me/ty2299",
   imageUrl: "https://pic.imgdb.cn/i/033oY29bM71ksG96Ei6IgX.jpg",
   imageAlt: "Telegram",
 };

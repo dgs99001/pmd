@@ -1,17 +1,21 @@
 import React from 'react';
 
-const marqueeText = "长期招商，年入百万。添加(Telegram）客服号：@ty2299";
+const marqueeText = "长期招商，年入百万。添加（泡泡密语）客服号：773473671";
 
 // =============================================
 // 横向广告栏配置 — 在此处修改广告链接和图片
 // =============================================
 const bottomBanner1 = {
-  link: "https://telegram.org/",
-  imageUrl: "https://pic.imgdb.cn/i/033oY29bM71ksG96Ei6IgX.jpg",
-  imageAlt: "Telegram",
+  link: "https://www.paopaomiyu.xyz",
+  imageUrl: "https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp",
+  imageAlt: "旺旺商聊",
 };
 
-
+const bottomBanner2 = {
+  link: "https://www.paopaomiyu.xyz",
+  imageUrl: "https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp",
+  imageAlt: "旺旺商聊",
+};
 // =============================================
 
 const apps = [

@@ -10,11 +10,6 @@ const bottomBanner = {
   imageUrl: "https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp",
   imageAlt: "旺旺商聊",
 };
-bottomBanner = {
-  link: "https://www.paopaomiyu.xyz",
-  imageUrl: "https://i.postimg.cc/gk2xhyQZ/pao-pao-mi-yu222.webp",
-  imageAlt: "旺旺商聊",
-};
 // =============================================
 
 const apps = [
